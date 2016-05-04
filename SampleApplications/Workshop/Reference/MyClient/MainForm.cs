@@ -210,7 +210,6 @@ namespace Quickstarts.MyClient
         
         }
         private Subscription m_subscription;
-        private Subscription m_subscription2;
         private MonitoredItem monitoredItem;
         private Subscription_Output outputWindow;
         private void subscriptionToolStripMenuItem_Click(object sender, EventArgs e)
